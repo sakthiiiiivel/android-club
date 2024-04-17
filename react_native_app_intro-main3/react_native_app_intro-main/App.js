@@ -15,7 +15,8 @@ const HomeScreen = () => {
   return (
     <View style={[styles.container, { backgroundColor }]}>
       <Text style={styles.title}>My React Native App</Text>
-      <Text style={styles.name}>Navtej S Nair</Text>
+      <Text style={styles.name}>SAKTHIVEL M</Text>
+      <Text style={styles.name}>22MIS1202</Text>
       <View style={styles.buttonContainer}>
         <Button title="Check Docs" onPress={handleExploreDocs} />
         <Button title="Check color" onPress={HandleColorChange}/>
